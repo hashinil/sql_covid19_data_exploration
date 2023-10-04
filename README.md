@@ -2,8 +2,10 @@
 
 **Dataset: https://ourworldindata.org/covid-deaths**
 ---------------------------------  
-TASK: **Data Exploration**
-SKILLS: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+**TASK:** Data Exploration
+
+**SKILLS:** Joins, Aggregate Functions, Converting Data Types, Windows Functions: PARTITION BY, CTE's, Temp Tables, Creating Views
+
 ---------------------------------  
 - [x]  Random data check
 - [x]  Select data that are going to use
