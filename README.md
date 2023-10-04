@@ -1,4 +1,4 @@
-# SQL Project: COVID Portfolio Project
+# COVID 19 Data Exploration Project
 
 **Dataset: https://ourworldindata.org/covid-deaths**
 
