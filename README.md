@@ -1,3 +1,6 @@
-# sql_project1
+# SQL Project: COVID Portfolio Project
 
-Dataset: https://ourworldindata.org/covid-deaths
+**Dataset: https://ourworldindata.org/covid-deaths**
+
+- [x]  Doing **Data Exploration**
+- [ ]  
